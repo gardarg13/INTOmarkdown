@@ -7,8 +7,8 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 Tad gekk vel ad setja upp linux utan vid tad ad windows 8 er med secure boot sem er tarf ad fikta i en tad turfti ad breyta boot mode ur UEFI i legacy i Biosnum. Og lyklabordid mitt vill ekki fara a islensku sem er ekki gaman ad lesa...
 Myndir:
-![Alt text](puu.sh/4SBJf.jpg)
-![Alt text](puu.sh/4SBYG.jpg)
+![Alt text](puu.sh/4SBJf)
+![Alt text](puu.sh/4SBYG)
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
@@ -23,7 +23,10 @@ Tad gekk vel, tok bara sma tima ad hugsa tetta i gegn og atta sig a umhverfinu s
 ## 4. Uppsettur hugbúnaður
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
-
+      Nafn - License - Linkur
+Gnome terminal - Gnu General Puplic License - ![Download](http://ftp.gnome.org/pub/gnome/sources/gnome-terminal/)
+LibreOffice Writer - GNU LGPLv3 - ![Download](anongit.freedesktop.org/git/libreoffice/core.git/)
+Thunderbird Mail - MPL - ![Download](ftp://ftp.mozilla.org/pub/mozilla.org/) 
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
