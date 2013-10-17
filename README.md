@@ -27,7 +27,7 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 >Gnome terminal - Gnu General Puplic License - [Download] [1] 
 >LibreOffice Writer - GNU LGPLv3 - [Download]
 >Thunderbird Mail - MPL - [Download]
-[1]: ftp://ftp.mozilla.org/pub/mozilla.org/ "download"
+[1]: www.google.com  "download"
  
 ## 5. Unnið með Git (2. hluti)
 
