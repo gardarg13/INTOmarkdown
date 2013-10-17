@@ -24,10 +24,9 @@ Tad gekk vel, tok bara sma tima ad hugsa tetta i gegn og atta sig a umhverfinu s
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 	>Nafn - License - Linkur
->Gnome terminal - Gnu General Puplic License - [Download] [1] 
+>Gnome terminal - Gnu General Puplic License - ![Download](www.google.com) 
 >LibreOffice Writer - GNU LGPLv3 - [Download]
 >Thunderbird Mail - MPL - [Download]
-[1]: www.google.com  "download"
  
 ## 5. Unnið með Git (2. hluti)
 
