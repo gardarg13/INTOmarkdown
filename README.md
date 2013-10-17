@@ -23,10 +23,12 @@ Tad gekk vel, tok bara sma tima ad hugsa tetta i gegn og atta sig a umhverfinu s
 ## 4. Uppsettur hugbúnaður
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
-      Nafn - License - Linkur
-Gnome terminal - Gnu General Puplic License - ![Download](http://ftp.gnome.org/pub/gnome/sources/gnome-terminal/)
-LibreOffice Writer - GNU LGPLv3 - ![Download](anongit.freedesktop.org/git/libreoffice/core.git/)
-Thunderbird Mail - MPL - ![Download](ftp://ftp.mozilla.org/pub/mozilla.org/) 
+	>Nafn - License - Linkur
+>Gnome terminal - Gnu General Puplic License - [Download] [1] 
+>LibreOffice Writer - GNU LGPLv3 - [Download]
+>Thunderbird Mail - MPL - [Download]
+[1]: ftp://ftp.mozilla.org/pub/mozilla.org/ "download"
+ 
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
