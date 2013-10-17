@@ -7,7 +7,7 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 Tad gekk vel ad setja upp linux utan vid tad ad windows 8 er med secure boot sem er tarf ad fikta i en tad turfti ad breyta boot mode ur UEFI i legacy i Biosnum. Og lyklabordid mitt vill ekki fara a islensku sem er ekki gaman ad lesa...
 Myndir:
-![Alt text](mynd.jpg)
+![Alt text](https://raw.github.com/gardarg13/INTOmarkdown/master/mynd1.jpg)
 ![Alt text](puu.sh/4SBYG)
 ## 2. Uppsetning á vim && git
 
