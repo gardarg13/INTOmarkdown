@@ -32,7 +32,7 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 >Gnome terminal - Gnu General Puplic License - ![Download](www.google.com) 
 >LibreOffice Writer - GNU LGPLv3 - ![Downlod](www.google.com)
 >Thunderbird Mail - MPL - ![Download](https://github.com/gardarg13/INTOPrufa)
-
+http://www.google.com
 linkar í lið 4 virka ekki af einhverjum ástæðum
 skrifað 00:02
 
