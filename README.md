@@ -30,7 +30,7 @@ Tad gekk vel, tok bara sma tima ad hugsa tetta i gegn og atta sig a umhverfinu s
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 	>Nafn - License - Linkur
 >Gnome terminal - Gnu General Puplic License - http://ftp.gnome.org/pub/gnome/sources/gnome-terminal/ 
->LibreOffice Writer - GNU LGPLv3 - anongit.freedesktop.org/git/libreoffice/core.git/
+>LibreOffice Writer - GNU LGPLv3 - http://anongit.freedesktop.org/git/libreoffice/core.git/
 >Thunderbird Mail - MPL - ![Download](https://github.com/gardarg13/INTOPrufa)
 http://www.google.com
 linkar í lið 4 virka ekki af einhverjum ástæðum
