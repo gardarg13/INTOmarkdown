@@ -33,6 +33,9 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 >LibreOffice Writer - GNU LGPLv3 - [Download]
 >Thunderbird Mail - MPL - [Download]
  
+Linkar í lið 4 virka ekki af einhverjum ástæðum
+skrifað 00:02
+
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
